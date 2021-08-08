@@ -1,14 +1,12 @@
 # Chat em real time Usando React e Socket.io
 
-## Mobile
-<div style="display: flex; flex-direction: row">
-  <img src="https://i.imgur.com/qOgEk92.jpg" width="200">
-  <img src="https://i.imgur.com/JGLxoEC.jpg" width="200">
-</div>
+```bash
+# Primeiro mudar o ip do servidor
+# localhost server.listen(3333, () => console.log('Server is running'));
+```
+![image](https://user-images.githubusercontent.com/62861636/128646691-63ca2516-f22f-4810-86cc-3ccfb4b8517b.png)
 
-## Desktop
-<div style="display: flex; flex-direction: row">
-  <img src="https://i.imgur.com/CaXR1E2.png" width="500">
-  <img src="https://i.imgur.com/PgLbceo.png" width="500">
-  <img src="https://i.imgur.com/VdRUSLM.png" width="500">
-</div>
+```bash
+# Iniciar o servidor
+yarn dev:server
+```
